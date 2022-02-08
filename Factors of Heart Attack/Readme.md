@@ -1,6 +1,7 @@
 Examining Factors Responsible for Heart Attacks
 
 DESCRIPTION
+
 Cardiovascular diseases are one of the leading causes of deaths globally. To identify the causes and develop a system to predict potential heart attacks in an effective manner 
 is necessary. The data presented has all the information about relevant factors that might have an impact on cardiovascular health. 
 The data needs to be studied in detail for further analysis.
