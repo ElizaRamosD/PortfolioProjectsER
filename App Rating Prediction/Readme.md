@@ -1,4 +1,4 @@
-# App Rating prediction
+# App Rating Prediction
 
 # DESCRIPTION
 
