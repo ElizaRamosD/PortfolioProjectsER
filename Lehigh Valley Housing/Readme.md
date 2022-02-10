@@ -1,4 +1,4 @@
-This project analyze the housing market in some of the cities in the Lehigh Valley area in Pennsylvania, US
+## Exploring and analyzing the housing market in some of the cities in the Lehigh Valley area in Pennsylvania, US
 
 The following steps were performed:
 
