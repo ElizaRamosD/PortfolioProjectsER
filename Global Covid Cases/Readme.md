@@ -1,6 +1,6 @@
-In this project we explore the Covid Cases around the world.
+# Exploration of Covid Cases around the world.
 
-Steps taken:
+## Steps taken:
 
 1. Data collected from Our World in Data
 2. Data cleaning and exploration performed using SQL/Server
