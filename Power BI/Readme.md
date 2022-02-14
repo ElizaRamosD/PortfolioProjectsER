@@ -1,5 +1,5 @@
-Two projects (pdf files) added. 
+# Comparative Sales Analisys
 
-Sales Report
+Guided project: data cleaning and visualization performed in Power BI
 
-Failed Banks in US
+Created a dashboard comparing the Current Year Sales with Previous Year Sales. 
