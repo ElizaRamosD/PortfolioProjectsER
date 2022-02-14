@@ -1,4 +1,4 @@
-# Comparative Sales Analisys
+# Comparative Sales Analysis
 
 Guided project: data cleaning and visualization performed in Power BI
 
